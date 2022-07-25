@@ -63,7 +63,7 @@ export default function MyAssets() {
                             // placeholder="blur" // Optional blur-up while loading
                           />
                 <div className="p-4 bg-blue">
-                  <p className="text-2xl font-bold">Degree - {nft.name} </p>
+                  <p className="text-2xl font-bold">Degree - {nft.description} </p>
                 </div>
               </div>
             ))
